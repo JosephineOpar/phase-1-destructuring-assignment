@@ -7,7 +7,7 @@
     "test": "mocha --timeout 5000 -R mocha-multi --reporter-options spec=-,json=.results.json"
   },
   "author": "flatironschool",
-  "license": "Included in Repo",
+  "license": "UNLICENSED",
   "dependencies": {
     "@babel/core": "^7.4.5",
     "@babel/preset-env": "^7.4.5",
@@ -17,5 +17,20 @@
     "mocha": "^5.2.0",
     "mocha-jsdom": "~1.1.0",
     "mocha-multi": "^1.0.1"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "npm install"
+  },
+  "keywords": [
+    "npm",
+    "install",
+    "chai",
+    "mocha",
+    "--save-dev"
+  ]
 }
